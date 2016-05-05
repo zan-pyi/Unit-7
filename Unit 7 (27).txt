@@ -1,0 +1,10 @@
+Unit 7
+
+27.function movie(name,mpaa_rating,directors,productors,studio,releasedate) {
+	this.title = name
+	this.rating = mpaa_rating
+	this.director = directors
+	this.productor = productors
+	this.studio = studio
+	this.releasedate = releasedate
+}

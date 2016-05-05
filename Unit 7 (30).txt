@@ -1,0 +1,8 @@
+Unit 7
+
+30. 
+(a) It produces “Wed May 04 2016 17:03:46 GMT-0700 (PDT)”. So new Date() produce the current date and time in details. 
+
+(b) For this one, it produces “Tue Jan 20 2009 00:00:00 GMT-0800 (PST)”. So new Date( 2009,0,20) produce the date that was specified inside the blanket.
+
+(3) It will produce “0” if the d1 and d2 are same. 

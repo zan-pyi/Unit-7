@@ -1,0 +1,3 @@
+Unit 7
+
+19. When the script is run, the message box will suddenly appears and on the message box, it will says “Hello”.
